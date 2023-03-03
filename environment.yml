@@ -1,0 +1,11 @@
+name: ligo
+
+dependencies:
+  - ipykernel=4.8
+  - matplotlib=2.2
+  - python=2.7
+  - numpy=1.16
+  - h5py=2.9.0 
+  - scipy=1.2
+  - ipython=5.5
+  - decorator=4.4.2
